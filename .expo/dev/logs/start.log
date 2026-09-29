@@ -1,0 +1,297 @@
+{"_e":"root:init","_t":1790094378997,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790094379041,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790094379045,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790094392334,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790094404164,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790094407217,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790094422015,"atlas":false,"workers":9,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790094759475,"id":"1","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790094759476,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790094759483,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790094759610,"id":"1","progress":0.16000000000000003,"total":35,"current":14}
+{"_e":"metro:bundling:progress","_t":1790094759709,"id":"1","progress":0.16000000000000003,"total":159,"current":20}
+{"_e":"metro:bundling:progress","_t":1790094759810,"id":"1","progress":0.16000000000000003,"total":219,"current":56}
+{"_e":"metro:bundling:progress","_t":1790094759909,"id":"1","progress":0.20576044212987565,"total":291,"current":132}
+{"_e":"metro:bundling:progress","_t":1790094760009,"id":"1","progress":0.20576044212987565,"total":371,"current":158}
+{"_e":"metro:bundling:progress","_t":1790094760109,"id":"1","progress":0.20576044212987565,"total":400,"current":175}
+{"_e":"metro:bundling:progress","_t":1790094760209,"id":"1","progress":0.27668816198336066,"total":519,"current":273}
+{"_e":"metro:bundling:progress","_t":1790094760309,"id":"1","progress":0.3239401376500413,"total":629,"current":358}
+{"_e":"metro:bundling:progress","_t":1790094760409,"id":"1","progress":0.3413503627007254,"total":635,"current":371}
+{"_e":"metro:bundling:progress","_t":1790094760437,"id":"1","progress":0.3431930063860128,"total":635,"current":372}
+{"_e":"metro:bundling:progress","_t":1790094760537,"id":"1","progress":0.4011688727283615,"total":731,"current":463}
+{"_e":"metro:bundling:progress","_t":1790094760637,"id":"1","progress":0.5281046255931485,"total":805,"current":585}
+{"_e":"metro:bundling:progress","_t":1790094760737,"id":"1","progress":0.5281046255931485,"total":887,"current":634}
+{"_e":"metro:bundling:progress","_t":1790094760837,"id":"1","progress":0.5612684732757577,"total":913,"current":684}
+{"_e":"metro:bundling:progress","_t":1790094760937,"id":"1","progress":0.7109834380920648,"total":963,"current":812}
+{"_e":"metro:bundling:progress","_t":1790094761058,"id":"1","progress":0.804180530741366,"total":988,"current":886}
+{"_e":"metro:bundling:progress","_t":1790094761157,"id":"1","progress":0.840867756890923,"total":1036,"current":950}
+{"_e":"metro:bundling:progress","_t":1790094761257,"id":"1","progress":0.9181059203161924,"total":1076,"current":1031}
+{"_e":"metro:bundling:progress","_t":1790094761357,"id":"1","progress":0.9271084718811784,"total":1131,"current":1089}
+{"_e":"metro:bundling:progress","_t":1790094761457,"id":"1","progress":0.9271084718811784,"total":1186,"current":1132}
+{"_e":"metro:bundling:progress","_t":1790094761563,"id":"1","progress":0.965618630759464,"total":1211,"current":1190}
+{"_e":"metro:bundling:progress","_t":1790094761666,"id":"1","progress":0.965618630759464,"total":1293,"current":1258}
+{"_e":"metro:bundling:progress","_t":1790094761766,"id":"1","progress":0.965618630759464,"total":1365,"current":1333}
+{"_e":"metro:bundling:progress","_t":1790094761866,"id":"1","progress":0.9871659083792297,"total":1398,"current":1389}
+{"_e":"metro:bundling:progress","_t":1790094761977,"id":"1","progress":0.9957219300377369,"total":1401,"current":1398}
+{"_e":"metro:bundling:progress","_t":1790094762817,"id":"1","progress":0.9971469344064936,"total":1401,"current":1399}
+{"_e":"metro:bundling:done","_t":1790094762936,"id":"1","total":1401,"ms":3460.988}
+{"_e":"metro:client_log","_t":1790094782576,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094783918,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094784763,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094785360,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094785990,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094786593,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094786936,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094787109,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094787308,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094787491,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094787646,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094787841,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094788035,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094790374,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094791832,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790094799662,"level":"log","data":["Erro ao buscar países:","[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1790095008637,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:bundling:started","_t":1790095010606,"id":"2","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790095010606,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790095010649,"id":"2","total":1,"ms":43.1783}
+{"_e":"metro:bundling:started","_t":1790095029717,"id":"4","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790095029718,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790095029765,"id":"4","total":1,"ms":47.5254}
+{"_e":"metro:client_log","_t":1790095040577,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790095060460,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790095061945,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790095235151,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"root:init","_t":1790678345442,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790678345445,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790678345452,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790678346970,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790678347959,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790678350334,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790678375818,"atlas":false,"workers":9,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790678389349,"id":"4","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790678389350,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790678389365,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790678389468,"id":"4","progress":0.07111111111111111,"total":15,"current":4}
+{"_e":"metro:bundling:progress","_t":1790678389575,"id":"4","progress":0.07111111111111111,"total":128,"current":10}
+{"_e":"metro:bundling:progress","_t":1790678389676,"id":"4","progress":0.07111111111111111,"total":152,"current":17}
+{"_e":"metro:bundling:progress","_t":1790678389781,"id":"4","progress":0.07111111111111111,"total":192,"current":34}
+{"_e":"metro:bundling:progress","_t":1790678389881,"id":"4","progress":0.07111111111111111,"total":222,"current":53}
+{"_e":"metro:bundling:progress","_t":1790678389987,"id":"4","progress":0.08361155465234431,"total":249,"current":72}
+{"_e":"metro:bundling:progress","_t":1790678390087,"id":"4","progress":0.12471269988752505,"total":286,"current":101}
+{"_e":"metro:bundling:progress","_t":1790678390192,"id":"4","progress":0.191746074611319,"total":322,"current":141}
+{"_e":"metro:bundling:progress","_t":1790678390297,"id":"4","progress":0.191746074611319,"total":370,"current":157}
+{"_e":"metro:bundling:progress","_t":1790678390401,"id":"4","progress":0.24872935402624816,"total":393,"current":196}
+{"_e":"metro:bundling:progress","_t":1790678390503,"id":"4","progress":0.27674580535028415,"total":422,"current":222}
+{"_e":"metro:bundling:progress","_t":1790678390604,"id":"4","progress":0.2930103969754253,"total":460,"current":249}
+{"_e":"metro:bundling:progress","_t":1790678390706,"id":"4","progress":0.30839803777593777,"total":506,"current":281}
+{"_e":"metro:bundling:progress","_t":1790678390805,"id":"4","progress":0.35425599885199244,"total":541,"current":322}
+{"_e":"metro:bundling:progress","_t":1790678390905,"id":"4","progress":0.35425599885199244,"total":604,"current":349}
+{"_e":"metro:bundling:progress","_t":1790678391009,"id":"4","progress":0.35425599885199244,"total":637,"current":372}
+{"_e":"metro:bundling:progress","_t":1790678391109,"id":"4","progress":0.3740474690191136,"total":690,"current":422}
+{"_e":"metro:bundling:progress","_t":1790678391211,"id":"4","progress":0.4306640625,"total":704,"current":462}
+{"_e":"metro:bundling:progress","_t":1790678391313,"id":"4","progress":0.4837629911675665,"total":716,"current":498}
+{"_e":"metro:bundling:progress","_t":1790678391421,"id":"4","progress":0.5431488084068306,"total":730,"current":538}
+{"_e":"metro:bundling:progress","_t":1790678391523,"id":"4","progress":0.5435447904652058,"total":765,"current":564}
+{"_e":"metro:bundling:progress","_t":1790678391625,"id":"4","progress":0.5571486790640573,"total":769,"current":574}
+{"_e":"metro:bundling:progress","_t":1790678391725,"id":"4","progress":0.5571486790640573,"total":845,"current":613}
+{"_e":"metro:bundling:progress","_t":1790678391829,"id":"4","progress":0.5571486790640573,"total":888,"current":635}
+{"_e":"metro:bundling:progress","_t":1790678391929,"id":"4","progress":0.564975244535684,"total":910,"current":684}
+{"_e":"metro:bundling:progress","_t":1790678392034,"id":"4","progress":0.598308861129374,"total":936,"current":724}
+{"_e":"metro:bundling:progress","_t":1790678392135,"id":"4","progress":0.6532886113904051,"total":944,"current":763}
+{"_e":"metro:bundling:progress","_t":1790678392236,"id":"4","progress":0.6929908719607467,"total":955,"current":795}
+{"_e":"metro:bundling:progress","_t":1790678392342,"id":"4","progress":0.7301842582639076,"total":976,"current":834}
+{"_e":"metro:bundling:progress","_t":1790678392443,"id":"4","progress":0.7423824099581675,"total":990,"current":853}
+{"_e":"metro:bundling:progress","_t":1790678392547,"id":"4","progress":0.7658435470623283,"total":1001,"current":876}
+{"_e":"metro:bundling:progress","_t":1790678392650,"id":"4","progress":0.7774120683453948,"total":1006,"current":887}
+{"_e":"metro:bundling:progress","_t":1790678392752,"id":"4","progress":0.7980677540297411,"total":1022,"current":913}
+{"_e":"metro:bundling:progress","_t":1790678392853,"id":"4","progress":0.8237723356009071,"total":1050,"current":953}
+{"_e":"metro:bundling:progress","_t":1790678393010,"id":"4","progress":0.8435742462158176,"total":1067,"current":980}
+{"_e":"metro:bundling:progress","_t":1790678393110,"id":"4","progress":0.8536525758895226,"total":1078,"current":996}
+{"_e":"metro:bundling:progress","_t":1790678393213,"id":"4","progress":0.8648142878379238,"total":1085,"current":1009}
+{"_e":"metro:bundling:progress","_t":1790678393312,"id":"4","progress":0.8888327925814284,"total":1101,"current":1038}
+{"_e":"metro:bundling:progress","_t":1790678393412,"id":"4","progress":0.8974193742335166,"total":1139,"current":1079}
+{"_e":"metro:bundling:progress","_t":1790678393514,"id":"4","progress":0.9485948350694445,"total":1152,"current":1122}
+{"_e":"metro:bundling:progress","_t":1790678393614,"id":"4","progress":0.9485948350694445,"total":1174,"current":1139}
+{"_e":"metro:bundling:progress","_t":1790678393714,"id":"4","progress":0.9485948350694445,"total":1231,"current":1178}
+{"_e":"metro:bundling:progress","_t":1790678393841,"id":"4","progress":0.9601157341724235,"total":1241,"current":1216}
+{"_e":"metro:bundling:progress","_t":1790678393941,"id":"4","progress":0.9601157341724235,"total":1305,"current":1238}
+{"_e":"metro:bundling:progress","_t":1790678394042,"id":"4","progress":0.9601157341724235,"total":1325,"current":1297}
+{"_e":"metro:bundling:progress","_t":1790678394142,"id":"4","progress":0.979517733564014,"total":1360,"current":1346}
+{"_e":"metro:bundling:progress","_t":1790678394243,"id":"4","progress":0.979517733564014,"total":1396,"current":1373}
+{"_e":"metro:bundling:progress","_t":1790678394504,"id":"4","progress":0.999,"total":1403,"current":1403}
+{"_e":"metro:bundling:done","_t":1790678394815,"id":"4","total":1403,"ms":5465.6944}
+{"_e":"metro:bundling:failed","_t":1790678574931,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\index.jsx: Unterminated string constant. (89:34)\n\n  87 |\n  88 |     botao: {\n> 89 |         backgroundColor: '#2657dc'',\n     |                                   ^\n  90 |         paddingVertical: 16,\n  91 |         paddingHorizontal: 35,\n  92 |         borderRadius: 14,","importStack":null,"filename":"src\\app\\index.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790678575119,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\index.jsx: Unterminated string constant. (89:34)\n\n  87 |\n  88 |     botao: {\n> 89 |         backgroundColor: '#2657dc'',\n     |                                   ^\n  90 |         paddingVertical: 16,\n  91 |         paddingHorizontal: 35,\n  92 |         borderRadius: 14,","importStack":null,"filename":"src\\app\\index.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790678575440,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\index.jsx: Unterminated string constant. (89:34)\n\n  87 |\n  88 |     botao: {\n> 89 |         backgroundColor: '#2657dc'',\n     |                                   ^\n  90 |         paddingVertical: 16,\n  91 |         paddingHorizontal: 35,\n  92 |         borderRadius: 14,","importStack":null,"filename":"src\\app\\index.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1790678585265,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678599658,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678603380,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678603382,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678628155,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678629565,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678637333,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678649322,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678653655,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678654741,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678661604,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:bundling:failed","_t":1790678664812,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Unterminated string constant. (270:24)\n\n  268 |     erro: {\n  269 |         fontSize: 17,\n> 270 |         color: '#2657dc'',\n      |                         ^\n  271 |         textAlign: 'center',\n  272 |         marginBottom: 20\n  273 |     },","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1790678669001,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678674763,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790678692423,"level":"log","data":["Erro ao buscar países:","[Error: Não foi possível acessar a API de países.]"]}
+{"_e":"metro:client_log","_t":1790679409199,"level":"log","data":["Erro ao buscar países:","[Error: A API não retornou uma lista de países.]"]}
+{"_e":"metro:bundling:started","_t":1790679480107,"id":"8","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790679480108,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790679480207,"id":"8","total":1,"ms":99.5534}
+{"_e":"metro:client_log","_t":1790679493678,"level":"log","data":["Erro ao buscar países:","[Error: A API não retornou uma lista de países.]"]}
+{"_e":"metro:bundling:failed","_t":1790679612705,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Missing catch or finally clause. (28:8)\n\n  26 |\n  27 |     async function carregarPaises() {\n> 28 |         try {\n     |         ^\n  29 |             const resposta = await fetch(API_URL);\n  30 | const texto = await resposta.text();\n  31 |","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790679619135,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Missing catch or finally clause. (28:8)\n\n  26 |\n  27 |     async function carregarPaises() {\n> 28 |         try {\n     |         ^\n  29 |             const resposta = await fetch(API_URL);\n  30 | const texto = await resposta.text();\n  31 |","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790679621257,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Missing catch or finally clause. (28:8)\n\n  26 |\n  27 |     async function carregarPaises() {\n> 28 |         try {\n     |         ^\n  29 |             const resposta = await fetch(API_URL);\n  30 | const texto = await resposta.text();\n  31 |","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790679635777,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Missing catch or finally clause. (28:8)\n\n  26 |\n  27 |     async function carregarPaises() {\n> 28 |         try {\n     |         ^\n  29 |           const resposta = await fetch(API_URL);\n  30 | const texto = await resposta.text();\n  31 |","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790679644401,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Missing catch or finally clause. (28:8)\n\n  26 |\n  27 |     async function carregarPaises() {\n> 28 |         try {\n     |         ^\n  29 |           const resposta = await fetch(API_URL);\n  30 | const texto = await resposta.text();\n  31 |","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790679646186,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Missing catch or finally clause. (28:8)\n\n  26 |\n  27 |     async function carregarPaises() {\n> 28 |         try {\n     |         ^\n  29 |           const resposta = await fetch(API_URL);\n  30 | const texto = await resposta.text();\n  31 |","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1790679662589,"level":"log","data":["STATUS:","200"]}
+{"_e":"metro:client_log","_t":1790679662592,"level":"log","data":["RESPOSTA DA API:","{\n    \"success\": false,\n    \"data\": null,\n    \"errors\": [\n        {\n            \"message\": \"This API version has been deprecated. Please visit https://restcountries.com/docs/countries/legacy-api-deprecation to migrate to our new version (v5).\"\n        }\n    ]\n}"]}
+{"_e":"metro:client_log","_t":1790679662596,"level":"log","data":["TIPO DA RESPOSTA:","object"]}
+{"_e":"metro:client_log","_t":1790679715773,"level":"log","data":["STATUS:","401"]}
+{"_e":"metro:client_log","_t":1790679715780,"level":"log","data":["RESPOSTA DA API:","{\"errors\":[{\"message\":\"Authorization key required.\",\"code\":\"authKeyMissing\"}]}"]}
+{"_e":"metro:client_log","_t":1790679715783,"level":"log","data":["TIPO DA RESPOSTA:","object"]}
+{"_e":"metro:bundling:failed","_t":1790679766884,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Unexpected reserved word 'await'. (26:17)\n\n  24 |         carregarPaises();\n  25 |     }, []);\n> 26 | const resposta = await fetch(API_URL, {\n     |                  ^\n  27 |     headers: {\n  28 |         Authorization: 'Bearer rc_live_demo'\n  29 |     }","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790679795179,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Unexpected reserved word 'await'. (27:21)\n\n  25 |     }, []);\n  26 |\n> 27 |     const resposta = await fetch(API_URL, {\n     |                      ^\n  28 |     headers: {\n  29 |         Authorization: 'Bearer rc_live_demo'\n  30 |     }","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790679798716,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Unexpected reserved word 'await'. (27:21)\n\n  25 |     }, []);\n  26 |\n> 27 |     const resposta = await fetch(API_URL, {\n     |                      ^\n  28 |     headers: {\n  29 |         Authorization: 'Bearer rc_live_demo'\n  30 |     }","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1790679820489,"id":null,"message":"SyntaxError: C:\\Users\\49205541842\\Documents\\Terceiro semestre\\PPDM1\\trabalho_julia\\src\\app\\paises.jsx: Unexpected reserved word 'await'. (26:17)\n\n  24 |         carregarPaises();\n  25 |     }, []);\n> 26 | const resposta = await fetch(API_URL, {\n     |                  ^\n  27 |     headers: {\n  28 |         Authorization: 'Bearer rc_live_demo'\n  29 |     }","importStack":null,"filename":"src\\app\\paises.jsx","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1790679889371,"level":"log","data":["STATUS:","401"]}
+{"_e":"metro:client_log","_t":1790679889389,"level":"log","data":["RESPOSTA DA API:","{\"errors\": [{\"code\": \"authKeyMissing\", \"message\": \"Authorization key required.\"}]}"]}
+{"_e":"metro:client_log","_t":1790679889400,"level":"log","data":["Erro ao buscar países:","[Error: Authorization key required.]"]}
+{"_e":"root:init","_t":1790679955105,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790679955180,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790679955231,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790679982382,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790679996794,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790680006506,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790680040008,"atlas":false,"workers":9,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790680061060,"id":"2","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790680061061,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790680061069,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790680061173,"id":"2","progress":0.1111111111111111,"total":30,"current":10}
+{"_e":"metro:bundling:progress","_t":1790680061287,"id":"2","progress":0.1111111111111111,"total":159,"current":20}
+{"_e":"metro:bundling:progress","_t":1790680061387,"id":"2","progress":0.1111111111111111,"total":234,"current":54}
+{"_e":"metro:bundling:progress","_t":1790680061487,"id":"2","progress":0.12790557484567902,"total":288,"current":103}
+{"_e":"metro:bundling:progress","_t":1790680061587,"id":"2","progress":0.17962569347994567,"total":361,"current":153}
+{"_e":"metro:bundling:progress","_t":1790680061687,"id":"2","progress":0.2742582152242762,"total":422,"current":221}
+{"_e":"metro:bundling:progress","_t":1790680061787,"id":"2","progress":0.32751487879227753,"total":498,"current":285}
+{"_e":"metro:bundling:progress","_t":1790680061890,"id":"2","progress":0.3381675330812855,"total":552,"current":321}
+{"_e":"metro:bundling:progress","_t":1790680061990,"id":"2","progress":0.3381675330812855,"total":635,"current":365}
+{"_e":"metro:bundling:progress","_t":1790680062091,"id":"2","progress":0.3948959364688592,"total":697,"current":438}
+{"_e":"metro:bundling:progress","_t":1790680062192,"id":"2","progress":0.5222629072232673,"total":732,"current":529}
+{"_e":"metro:bundling:progress","_t":1790680062293,"id":"2","progress":0.5222629072232673,"total":822,"current":588}
+{"_e":"metro:bundling:progress","_t":1790680062392,"id":"2","progress":0.5222629072232673,"total":880,"current":631}
+{"_e":"metro:bundling:progress","_t":1790680062499,"id":"2","progress":0.5554932905771477,"total":907,"current":676}
+{"_e":"metro:bundling:progress","_t":1790680062601,"id":"2","progress":0.5909559858589842,"total":934,"current":718}
+{"_e":"metro:bundling:progress","_t":1790680062701,"id":"2","progress":0.6300390625,"total":960,"current":762}
+{"_e":"metro:bundling:progress","_t":1790680062837,"id":"2","progress":0.6560341479939189,"total":984,"current":797}
+{"_e":"metro:bundling:progress","_t":1790680062937,"id":"2","progress":0.7120724327931535,"total":999,"current":843}
+{"_e":"metro:bundling:progress","_t":1790680063069,"id":"2","progress":0.7895391540134371,"total":1014,"current":901}
+{"_e":"metro:bundling:progress","_t":1790680063170,"id":"2","progress":0.8278582719125479,"total":1054,"current":959}
+{"_e":"metro:bundling:progress","_t":1790680063269,"id":"2","progress":0.8871210302581833,"total":1101,"current":1037}
+{"_e":"metro:bundling:progress","_t":1790680063369,"id":"2","progress":0.9235309930946237,"total":1154,"current":1109}
+{"_e":"metro:bundling:progress","_t":1790680063471,"id":"2","progress":0.9599707303709308,"total":1187,"current":1163}
+{"_e":"metro:bundling:progress","_t":1790680063571,"id":"2","progress":0.9599707303709308,"total":1292,"current":1220}
+{"_e":"metro:bundling:progress","_t":1790680063671,"id":"2","progress":0.9676015716412342,"total":1347,"current":1325}
+{"_e":"metro:bundling:progress","_t":1790680063849,"id":"2","progress":0.999,"total":1403,"current":1403}
+{"_e":"metro:bundling:done","_t":1790680064178,"id":"2","total":1403,"ms":3117.3083}
+{"_e":"metro:client_log","_t":1790680077323,"level":"log","data":["STATUS:","401"]}
+{"_e":"metro:client_log","_t":1790680077339,"level":"log","data":["RESPOSTA DA API:","{\"errors\": [{\"code\": \"authKeyMissing\", \"message\": \"Authorization key required.\"}]}"]}
+{"_e":"metro:client_log","_t":1790680077349,"level":"log","data":["Erro ao buscar países:","[Error: Authorization key required.]"]}
+{"_e":"metro:client_log","_t":1790680176118,"level":"log","data":["STATUS:","200"]}
+{"_e":"metro:client_log","_t":1790680176122,"level":"log","data":["RESPOSTA DA API:","{\"data\": {\"_demo\": {\"message\": \"You just ran a test against the demo key. To get real data, sign up for an API key here: https://restcountries.com/sign-up. Below is one example object showing the response shape you would get back from a real query.\", \"signup_url\": \"https://restcountries.com/sign-up\"}, \"meta\": {\"request_id\": \"15cb552b-1dec-4233-80cd-fd659aac1783\", \"total\": 1}, \"objects\": [[Object]]}}"]}
+{"_e":"metro:client_log","_t":1790680176960,"level":"log","data":["STATUS:","200"]}
+{"_e":"metro:client_log","_t":1790680176961,"level":"log","data":["RESPOSTA DA API:","{\"data\": {\"_demo\": {\"message\": \"You just ran a test against the demo key. To get real data, sign up for an API key here: https://restcountries.com/sign-up. Below is one example object showing the response shape you would get back from a real query.\", \"signup_url\": \"https://restcountries.com/sign-up\"}, \"meta\": {\"request_id\": \"9b0ab5f5-c5c8-4c30-8ac8-77d28439d734\", \"total\": 1}, \"objects\": [[Object]]}}"]}
+{"_e":"metro:client_log","_t":1790680177023,"level":"error","data":["[TypeError: Cannot read property 'common' of undefined]","\n\n\u001b[1mCode: paises.jsx\u001b[22m\n\u001b[0m \u001b[90m 56 |\u001b[39m\n \u001b[90m 57 |\u001b[39m     \u001b[36mconst\u001b[39m paisesFiltrados \u001b[33m=\u001b[39m paises\u001b[33m.\u001b[39mfilter((pais) \u001b[33m=>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 58 |\u001b[39m         pais\u001b[33m.\u001b[39mname\u001b[33m.\u001b[39mcommon\n \u001b[90m    |\u001b[39m                  \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 59 |\u001b[39m             \u001b[33m.\u001b[39mtoLowerCase()\n \u001b[90m 60 |\u001b[39m             \u001b[33m.\u001b[39mincludes(busca\u001b[33m.\u001b[39mtoLowerCase())\n \u001b[90m 61 |\u001b[39m     )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  filter$argument_0 (src\\app\\paises.jsx:58:18)\u001b[39m\n\u001b[90m  Paises (src\\app\\paises.jsx:57:42)\u001b[39m","\n\n\u001b[1mCode: _layout.jsx\u001b[22m\n\u001b[0m \u001b[90m 3 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m \u001b[36mfunction\u001b[39m \u001b[33mLayout\u001b[39m() {\n \u001b[90m 4 |\u001b[39m     \u001b[36mreturn\u001b[39m (\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 5 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\n \u001b[90m   |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 6 |\u001b[39m             screenOptions\u001b[33m=\u001b[39m{{\n \u001b[90m 7 |\u001b[39m                 headerStyle\u001b[33m:\u001b[39m {\n \u001b[90m 8 |\u001b[39m                     backgroundColor\u001b[33m:\u001b[39m \u001b[32m'#7057a6'\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  Layout (src\\app\\_layout.jsx:5:9)\u001b[39m"]}
+{"_e":"root:init","_t":1790680253404,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790680253407,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790680253412,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790680254754,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790680255864,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790680256677,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790680280876,"atlas":false,"workers":9,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790680289722,"id":"2","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790680289723,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790680289734,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790680289852,"id":"2","progress":0.1111111111111111,"total":39,"current":13}
+{"_e":"metro:bundling:progress","_t":1790680289953,"id":"2","progress":0.1111111111111111,"total":173,"current":30}
+{"_e":"metro:bundling:progress","_t":1790680290063,"id":"2","progress":0.1111111111111111,"total":250,"current":60}
+{"_e":"metro:bundling:progress","_t":1790680290162,"id":"2","progress":0.15344435879751717,"total":314,"current":123}
+{"_e":"metro:bundling:progress","_t":1790680290262,"id":"2","progress":0.1867629605312997,"total":398,"current":172}
+{"_e":"metro:bundling:progress","_t":1790680290362,"id":"2","progress":0.2663178793978605,"total":467,"current":241}
+{"_e":"metro:bundling:progress","_t":1790680290462,"id":"2","progress":0.3199251061736157,"total":541,"current":306}
+{"_e":"metro:bundling:progress","_t":1790680290571,"id":"2","progress":0.3801712797658997,"total":579,"current":357}
+{"_e":"metro:bundling:progress","_t":1790680290672,"id":"2","progress":0.3801712797658997,"total":726,"current":430}
+{"_e":"metro:bundling:progress","_t":1790680290772,"id":"2","progress":0.4642339391661521,"total":772,"current":526}
+{"_e":"metro:bundling:progress","_t":1790680290873,"id":"2","progress":0.5104520845851869,"total":823,"current":588}
+{"_e":"metro:bundling:progress","_t":1790680290973,"id":"2","progress":0.5340236686390532,"total":910,"current":665}
+{"_e":"metro:bundling:progress","_t":1790680291073,"id":"2","progress":0.6158005238127904,"total":943,"current":740}
+{"_e":"metro:bundling:progress","_t":1790680291195,"id":"2","progress":0.6433203575934925,"total":965,"current":774}
+{"_e":"metro:bundling:progress","_t":1790680291295,"id":"2","progress":0.6592323444645396,"total":989,"current":803}
+{"_e":"metro:bundling:progress","_t":1790680291396,"id":"2","progress":0.778649291505882,"total":1012,"current":893}
+{"_e":"metro:bundling:progress","_t":1790680291498,"id":"2","progress":0.8232919087509774,"total":1047,"current":950}
+{"_e":"metro:bundling:progress","_t":1790680291597,"id":"2","progress":0.8772928382244686,"total":1089,"current":1020}
+{"_e":"metro:bundling:progress","_t":1790680291698,"id":"2","progress":0.9385290757020602,"total":1153,"current":1117}
+{"_e":"metro:bundling:progress","_t":1790680291800,"id":"2","progress":0.9385290757020602,"total":1240,"current":1197}
+{"_e":"metro:bundling:progress","_t":1790680291899,"id":"2","progress":0.9385290757020602,"total":1319,"current":1266}
+{"_e":"metro:bundling:progress","_t":1790680292003,"id":"2","progress":0.9838889489619378,"total":1360,"current":1349}
+{"_e":"metro:bundling:done","_t":1790680292232,"id":"2","total":1360,"ms":2509.2188}
+{"_e":"metro:client_log","_t":1790680303319,"level":"log","data":["STATUS:","200"]}
+{"_e":"metro:client_log","_t":1790680303346,"level":"log","data":["RESPOSTA DA API:","{\"data\": {\"_demo\": {\"message\": \"You just ran a test against the demo key. To get real data, sign up for an API key here: https://restcountries.com/sign-up. Below is one example object showing the response shape you would get back from a real query.\", \"signup_url\": \"https://restcountries.com/sign-up\"}, \"meta\": {\"request_id\": \"32a36721-e869-475c-97fd-cd13801cf5b4\", \"total\": 1}, \"objects\": [[Object]]}}"]}
+{"_e":"metro:client_log","_t":1790680303631,"level":"error","data":["[TypeError: Cannot read property 'common' of undefined]","\n\n\u001b[1mCode: paises.jsx\u001b[22m\n\u001b[0m \u001b[90m 56 |\u001b[39m\n \u001b[90m 57 |\u001b[39m     \u001b[36mconst\u001b[39m paisesFiltrados \u001b[33m=\u001b[39m paises\u001b[33m.\u001b[39mfilter((pais) \u001b[33m=>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 58 |\u001b[39m         pais\u001b[33m.\u001b[39mname\u001b[33m.\u001b[39mcommon\n \u001b[90m    |\u001b[39m                  \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 59 |\u001b[39m             \u001b[33m.\u001b[39mtoLowerCase()\n \u001b[90m 60 |\u001b[39m             \u001b[33m.\u001b[39mincludes(busca\u001b[33m.\u001b[39mtoLowerCase())\n \u001b[90m 61 |\u001b[39m     )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  filter$argument_0 (src\\app\\paises.jsx:58:18)\u001b[39m\n\u001b[90m  Paises (src\\app\\paises.jsx:57:42)\u001b[39m","\n\n\u001b[1mCode: _layout.jsx\u001b[22m\n\u001b[0m \u001b[90m 3 |\u001b[39m \u001b[36mexport\u001b[39m \u001b[36mdefault\u001b[39m \u001b[36mfunction\u001b[39m \u001b[33mLayout\u001b[39m() {\n \u001b[90m 4 |\u001b[39m     \u001b[36mreturn\u001b[39m (\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 5 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mStack\u001b[39m\n \u001b[90m   |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 6 |\u001b[39m             screenOptions\u001b[33m=\u001b[39m{{\n \u001b[90m 7 |\u001b[39m                 headerStyle\u001b[33m:\u001b[39m {\n \u001b[90m 8 |\u001b[39m                     backgroundColor\u001b[33m:\u001b[39m \u001b[32m'#7057a6'\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  Layout (src\\app\\_layout.jsx:5:9)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1790680396433,"id":"8","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790680396433,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790680396538,"id":"8","total":1,"ms":104.8654}
+{"_e":"metro:client_log","_t":1790680407562,"level":"log","data":["STATUS:","200"]}
+{"_e":"metro:client_log","_t":1790680407595,"level":"log","data":["RESPOSTA DA API:","{\"data\": {\"_demo\": {\"message\": \"You just ran a test against the demo key. To get real data, sign up for an API key here: https://restcountries.com/sign-up. Below is one example object showing the response shape you would get back from a real query.\", \"signup_url\": \"https://restcountries.com/sign-up\"}, \"meta\": {\"request_id\": \"949aed13-9527-4c95-b030-087ccd085002\", \"total\": 1}, \"objects\": [[Object]]}}"]}
+{"_e":"metro:client_log","_t":1790680407989,"level":"error","data":["\n\n\u001b[1mCode: paises.jsx\u001b[22m\n\u001b[0m \u001b[90m 158 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 159 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 160 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mFlatList\u001b[39m\n \u001b[90m     |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 161 |\u001b[39m                 data\u001b[33m=\u001b[39m{paisesFiltrados}\n \u001b[90m 162 |\u001b[39m                 keyExtractor\u001b[33m=\u001b[39m{(item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mcca3}\n \u001b[90m 163 |\u001b[39m                 renderItem\u001b[33m=\u001b[39m{renderPais}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  Paises (src\\app\\paises.jsx:160:13)\u001b[39m\n\u001b[90m  Layout (src\\app\\_layout.jsx:5:9)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1790680408263,"level":"error","data":["[TypeError: Cannot read property 'common' of undefined]","\n\n\u001b[1mCode: paises.jsx\u001b[22m\n\u001b[0m \u001b[90m 83 |\u001b[39m                 \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39minformacoes}\u001b[33m>\u001b[39m\n \u001b[90m 84 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mnome}\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 85 |\u001b[39m                         {item\u001b[33m.\u001b[39mname\u001b[33m.\u001b[39mcommon}\n \u001b[90m    |\u001b[39m                                   \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 86 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 87 |\u001b[39m\n \u001b[90m 88 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mregiao}\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  renderPais (src\\app\\paises.jsx:85:35)\u001b[39m","\n\n\u001b[1mCode: paises.jsx\u001b[22m\n\u001b[0m \u001b[90m 158 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 159 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 160 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mFlatList\u001b[39m\n \u001b[90m     |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 161 |\u001b[39m                 data\u001b[33m=\u001b[39m{paisesFiltrados}\n \u001b[90m 162 |\u001b[39m                 keyExtractor\u001b[33m=\u001b[39m{(item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mcca3}\n \u001b[90m 163 |\u001b[39m                 renderItem\u001b[33m=\u001b[39m{renderPais}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  Paises (src\\app\\paises.jsx:160:13)\u001b[39m\n\u001b[90m  Layout (src\\app\\_layout.jsx:5:9)\u001b[39m"]}
+{"_e":"root:init","_t":1790683863726,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790683863773,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790683863819,"mode":"development","files":[],"env":{}}
+{"_e":"root:init","_t":1790683903530,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790683903532,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790683903538,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790683919164,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\src\\app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790683940248,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790683949309,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790683975218,"atlas":false,"workers":9,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1790683986972,"id":"4","platform":"android","environment":null,"entry":"node_modules\\expo-router\\entry.js"}
+{"_e":"metro:bundling:progress","_t":1790683986973,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790683986985,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790683987085,"id":"4","progress":0.059975010412328195,"total":49,"current":12}
+{"_e":"metro:bundling:progress","_t":1790683987191,"id":"4","progress":0.059975010412328195,"total":159,"current":20}
+{"_e":"metro:bundling:progress","_t":1790683987293,"id":"4","progress":0.059975010412328195,"total":222,"current":42}
+{"_e":"metro:bundling:progress","_t":1790683987406,"id":"4","progress":0.059975010412328195,"total":277,"current":65}
+{"_e":"metro:bundling:progress","_t":1790683987506,"id":"4","progress":0.10582087385687328,"total":332,"current":108}
+{"_e":"metro:bundling:progress","_t":1790683987606,"id":"4","progress":0.18626038781163437,"total":380,"current":164}
+{"_e":"metro:bundling:progress","_t":1790683987708,"id":"4","progress":0.23283785587612746,"total":458,"current":221}
+{"_e":"metro:bundling:progress","_t":1790683987808,"id":"4","progress":0.28807175460436024,"total":531,"current":285}
+{"_e":"metro:bundling:progress","_t":1790683987908,"id":"4","progress":0.31873876145783087,"total":604,"current":341}
+{"_e":"metro:bundling:progress","_t":1790683988008,"id":"4","progress":0.36,"total":660,"current":396}
+{"_e":"metro:bundling:progress","_t":1790683988113,"id":"4","progress":0.36977254911114615,"total":717,"current":436}
+{"_e":"metro:bundling:progress","_t":1790683988212,"id":"4","progress":0.36977254911114615,"total":811,"current":492}
+{"_e":"metro:bundling:progress","_t":1790683988313,"id":"4","progress":0.4122223657024794,"total":880,"current":565}
+{"_e":"metro:bundling:progress","_t":1790683988413,"id":"4","progress":0.5382119509584246,"total":901,"current":661}
+{"_e":"metro:bundling:progress","_t":1790683988512,"id":"4","progress":0.6772654220928733,"total":932,"current":767}
+{"_e":"metro:bundling:progress","_t":1790683988618,"id":"4","progress":0.7341895399118197,"total":971,"current":832}
+{"_e":"metro:bundling:progress","_t":1790683988744,"id":"4","progress":0.7871954494624414,"total":1011,"current":897}
+{"_e":"metro:bundling:progress","_t":1790683988844,"id":"4","progress":0.8082533697803751,"total":1030,"current":926}
+{"_e":"metro:bundling:progress","_t":1790683988944,"id":"4","progress":0.8463306982171294,"total":1062,"current":977}
+{"_e":"metro:bundling:progress","_t":1790683989045,"id":"4","progress":0.8942213897388481,"total":1122,"current":1061}
+{"_e":"metro:bundling:progress","_t":1790683989146,"id":"4","progress":0.9312579354447925,"total":1172,"current":1131}
+{"_e":"metro:bundling:progress","_t":1790683989248,"id":"4","progress":0.9312579354447925,"total":1218,"current":1166}
+{"_e":"metro:bundling:progress","_t":1790683989362,"id":"4","progress":0.9711322394502572,"total":1238,"current":1220}
+{"_e":"metro:bundling:progress","_t":1790683989462,"id":"4","progress":0.9711322394502572,"total":1314,"current":1268}
+{"_e":"metro:bundling:progress","_t":1790683989562,"id":"4","progress":0.9780788535032535,"total":1361,"current":1346}
+{"_e":"metro:bundling:progress","_t":1790683989744,"id":"4","progress":0.999,"total":1403,"current":1403}
+{"_e":"metro:bundling:done","_t":1790683989925,"id":"4","total":1403,"ms":2952.1502}
+{"_e":"metro:client_log","_t":1790684007631,"level":"log","data":["STATUS:","200"]}
+{"_e":"metro:client_log","_t":1790684007654,"level":"log","data":["RESPOSTA DA API:","{\"data\": {\"_demo\": {\"message\": \"You just ran a test against the demo key. To get real data, sign up for an API key here: https://restcountries.com/sign-up. Below is one example object showing the response shape you would get back from a real query.\", \"signup_url\": \"https://restcountries.com/sign-up\"}, \"meta\": {\"request_id\": \"f3ffa2ce-01c3-4cd9-a989-0f04b4045204\", \"total\": 1}, \"objects\": [[Object]]}}"]}
+{"_e":"metro:client_log","_t":1790684008188,"level":"error","data":["\n\n\u001b[1mCode: paises.jsx\u001b[22m\n\u001b[0m \u001b[90m 158 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 159 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 160 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mFlatList\u001b[39m\n \u001b[90m     |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 161 |\u001b[39m                 data\u001b[33m=\u001b[39m{paisesFiltrados}\n \u001b[90m 162 |\u001b[39m                 keyExtractor\u001b[33m=\u001b[39m{(item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mcca3}\n \u001b[90m 163 |\u001b[39m                 renderItem\u001b[33m=\u001b[39m{renderPais}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  Paises (src\\app\\paises.jsx:160:13)\u001b[39m\n\u001b[90m  Layout (src\\app\\_layout.jsx:5:9)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1790684008655,"level":"error","data":["[TypeError: Cannot read property 'common' of undefined]","\n\n\u001b[1mCode: paises.jsx\u001b[22m\n\u001b[0m \u001b[90m 83 |\u001b[39m                 \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39minformacoes}\u001b[33m>\u001b[39m\n \u001b[90m 84 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mnome}\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 85 |\u001b[39m                         {item\u001b[33m.\u001b[39mname\u001b[33m.\u001b[39mcommon}\n \u001b[90m    |\u001b[39m                                   \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 86 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 87 |\u001b[39m\n \u001b[90m 88 |\u001b[39m                     \u001b[33m<\u001b[39m\u001b[33mText\u001b[39m style\u001b[33m=\u001b[39m{styles\u001b[33m.\u001b[39mregiao}\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  renderPais (src\\app\\paises.jsx:85:35)\u001b[39m","\n\n\u001b[1mCode: paises.jsx\u001b[22m\n\u001b[0m \u001b[90m 158 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mText\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 159 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 160 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mFlatList\u001b[39m\n \u001b[90m     |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 161 |\u001b[39m                 data\u001b[33m=\u001b[39m{paisesFiltrados}\n \u001b[90m 162 |\u001b[39m                 keyExtractor\u001b[33m=\u001b[39m{(item) \u001b[33m=>\u001b[39m item\u001b[33m.\u001b[39mcca3}\n \u001b[90m 163 |\u001b[39m                 renderItem\u001b[33m=\u001b[39m{renderPais}\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  Paises (src\\app\\paises.jsx:160:13)\u001b[39m\n\u001b[90m  Layout (src\\app\\_layout.jsx:5:9)\u001b[39m"]}
